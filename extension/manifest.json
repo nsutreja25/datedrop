@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "DateDrop",
+  "version": "0.1.0",
+  "description": "Turn school newsletter dates into calendar events.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ]
+}
